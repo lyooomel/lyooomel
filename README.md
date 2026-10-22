@@ -27,7 +27,10 @@
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lyooomel&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyooomel&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+<p>
+  <img src="metrics.languages.svg" alt="most used languages" />
 </p>
 
 <p>
