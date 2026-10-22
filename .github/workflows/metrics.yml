@@ -2,7 +2,7 @@ name: Metrics
 on:
   schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
-  push: { branches: [main] }
+  push: { branches: [main], paths-ignore: [metrics.languages.svg] }
 
 permissions:
   contents: write
@@ -11,15 +11,14 @@ jobs:
   languages:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: lyooomel
-          base: ""
-          config_timezone: Asia/Jakarta
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
-          plugin_languages_colors: github
+      - uses: actions/checkout@v4
+      - run: python3 .github/scripts/languages.py metrics.languages.svg
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - run: |
+          git diff --quiet -- metrics.languages.svg && git ls-files --error-unmatch metrics.languages.svg >/dev/null 2>&1 && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.languages.svg
+          git commit -m "Update language metrics"
+          git push
