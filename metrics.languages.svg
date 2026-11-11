@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="154" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <text x="0" y="20" font-size="15" font-weight="600" fill="#58a6ff">Most Used Languages</text>
-<rect x="0.00" y="40" width="224.92" height="8" fill="#3178c6"/>
-<rect x="224.92" y="40" width="141.36" height="8" fill="#e34c26"/>
-<rect x="366.28" y="40" width="35.09" height="8" fill="#f1e05a"/>
-<rect x="401.37" y="40" width="14.67" height="8" fill="#00ADD8"/>
-<rect x="416.04" y="40" width="3.05" height="8" fill="#663399"/>
-<rect x="419.09" y="40" width="0.35" height="8" fill="#8b949e"/>
-<rect x="419.44" y="40" width="0.29" height="8" fill="#8b949e"/>
-<rect x="419.73" y="40" width="0.23" height="8" fill="#f34b7d"/>
+<rect x="0.00" y="40" width="228.50" height="8" fill="#3178c6"/>
+<rect x="228.50" y="40" width="138.67" height="8" fill="#e34c26"/>
+<rect x="367.17" y="40" width="34.41" height="8" fill="#f1e05a"/>
+<rect x="401.58" y="40" width="14.39" height="8" fill="#00ADD8"/>
+<rect x="415.97" y="40" width="3.14" height="8" fill="#663399"/>
+<rect x="419.11" y="40" width="0.34" height="8" fill="#8b949e"/>
+<rect x="419.45" y="40" width="0.28" height="8" fill="#8b949e"/>
+<rect x="419.74" y="40" width="0.23" height="8" fill="#f34b7d"/>
 <circle cx="5.0" cy="66" r="5" fill="#3178c6"/>
-<text x="16.0" y="70" font-size="12" fill="#8b949e">TypeScript 53.6%</text>
+<text x="16.0" y="70" font-size="12" fill="#8b949e">TypeScript 54.4%</text>
 <circle cx="215.0" cy="66" r="5" fill="#e34c26"/>
-<text x="226.0" y="70" font-size="12" fill="#8b949e">HTML 33.7%</text>
+<text x="226.0" y="70" font-size="12" fill="#8b949e">HTML 33.0%</text>
 <circle cx="5.0" cy="88" r="5" fill="#f1e05a"/>
-<text x="16.0" y="92" font-size="12" fill="#8b949e">JavaScript 8.4%</text>
+<text x="16.0" y="92" font-size="12" fill="#8b949e">JavaScript 8.2%</text>
 <circle cx="215.0" cy="88" r="5" fill="#00ADD8"/>
-<text x="226.0" y="92" font-size="12" fill="#8b949e">Go 3.5%</text>
+<text x="226.0" y="92" font-size="12" fill="#8b949e">Go 3.4%</text>
 <circle cx="5.0" cy="110" r="5" fill="#663399"/>
 <text x="16.0" y="114" font-size="12" fill="#8b949e">CSS 0.7%</text>
 <circle cx="215.0" cy="110" r="5" fill="#8b949e"/>
