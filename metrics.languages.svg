@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="154" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <text x="0" y="20" font-size="15" font-weight="600" fill="#58a6ff">Most Used Languages</text>
-<rect x="0.00" y="40" width="237.23" height="8" fill="#3178c6"/>
-<rect x="237.23" y="40" width="132.34" height="8" fill="#e34c26"/>
-<rect x="369.57" y="40" width="32.84" height="8" fill="#f1e05a"/>
-<rect x="402.41" y="40" width="13.73" height="8" fill="#00ADD8"/>
-<rect x="416.14" y="40" width="3.01" height="8" fill="#663399"/>
-<rect x="419.15" y="40" width="0.33" height="8" fill="#8b949e"/>
+<rect x="0.00" y="40" width="235.66" height="8" fill="#3178c6"/>
+<rect x="235.66" y="40" width="131.58" height="8" fill="#e34c26"/>
+<rect x="367.24" y="40" width="34.85" height="8" fill="#f1e05a"/>
+<rect x="402.09" y="40" width="13.59" height="8" fill="#00ADD8"/>
+<rect x="415.68" y="40" width="3.48" height="8" fill="#663399"/>
+<rect x="419.16" y="40" width="0.32" height="8" fill="#8b949e"/>
 <rect x="419.48" y="40" width="0.27" height="8" fill="#8b949e"/>
-<rect x="419.75" y="40" width="0.22" height="8" fill="#f34b7d"/>
+<rect x="419.75" y="40" width="0.21" height="8" fill="#f34b7d"/>
 <circle cx="5.0" cy="66" r="5" fill="#3178c6"/>
-<text x="16.0" y="70" font-size="12" fill="#8b949e">TypeScript 56.5%</text>
+<text x="16.0" y="70" font-size="12" fill="#8b949e">TypeScript 56.1%</text>
 <circle cx="215.0" cy="66" r="5" fill="#e34c26"/>
-<text x="226.0" y="70" font-size="12" fill="#8b949e">HTML 31.5%</text>
+<text x="226.0" y="70" font-size="12" fill="#8b949e">HTML 31.3%</text>
 <circle cx="5.0" cy="88" r="5" fill="#f1e05a"/>
-<text x="16.0" y="92" font-size="12" fill="#8b949e">JavaScript 7.8%</text>
+<text x="16.0" y="92" font-size="12" fill="#8b949e">JavaScript 8.3%</text>
 <circle cx="215.0" cy="88" r="5" fill="#00ADD8"/>
-<text x="226.0" y="92" font-size="12" fill="#8b949e">Go 3.3%</text>
+<text x="226.0" y="92" font-size="12" fill="#8b949e">Go 3.2%</text>
 <circle cx="5.0" cy="110" r="5" fill="#663399"/>
-<text x="16.0" y="114" font-size="12" fill="#8b949e">CSS 0.7%</text>
+<text x="16.0" y="114" font-size="12" fill="#8b949e">CSS 0.8%</text>
 <circle cx="215.0" cy="110" r="5" fill="#8b949e"/>
 <text x="226.0" y="114" font-size="12" fill="#8b949e">PLpgSQL 0.1%</text>
 <circle cx="5.0" cy="132" r="5" fill="#8b949e"/>
