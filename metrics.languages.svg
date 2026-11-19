@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="154" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <text x="0" y="20" font-size="15" font-weight="600" fill="#58a6ff">Most Used Languages</text>
-<rect x="0.00" y="40" width="236.17" height="8" fill="#3178c6"/>
-<rect x="236.17" y="40" width="131.22" height="8" fill="#e34c26"/>
-<rect x="367.38" y="40" width="34.76" height="8" fill="#f1e05a"/>
-<rect x="402.14" y="40" width="13.56" height="8" fill="#00ADD8"/>
-<rect x="415.70" y="40" width="3.47" height="8" fill="#663399"/>
+<rect x="0.00" y="40" width="236.79" height="8" fill="#3178c6"/>
+<rect x="236.79" y="40" width="130.76" height="8" fill="#e34c26"/>
+<rect x="367.55" y="40" width="34.65" height="8" fill="#f1e05a"/>
+<rect x="402.20" y="40" width="13.51" height="8" fill="#00ADD8"/>
+<rect x="415.71" y="40" width="3.45" height="8" fill="#663399"/>
 <rect x="419.16" y="40" width="0.32" height="8" fill="#8b949e"/>
 <rect x="419.49" y="40" width="0.27" height="8" fill="#8b949e"/>
 <rect x="419.75" y="40" width="0.21" height="8" fill="#f34b7d"/>
 <circle cx="5.0" cy="66" r="5" fill="#3178c6"/>
-<text x="16.0" y="70" font-size="12" fill="#8b949e">TypeScript 56.2%</text>
+<text x="16.0" y="70" font-size="12" fill="#8b949e">TypeScript 56.4%</text>
 <circle cx="215.0" cy="66" r="5" fill="#e34c26"/>
-<text x="226.0" y="70" font-size="12" fill="#8b949e">HTML 31.2%</text>
+<text x="226.0" y="70" font-size="12" fill="#8b949e">HTML 31.1%</text>
 <circle cx="5.0" cy="88" r="5" fill="#f1e05a"/>
-<text x="16.0" y="92" font-size="12" fill="#8b949e">JavaScript 8.3%</text>
+<text x="16.0" y="92" font-size="12" fill="#8b949e">JavaScript 8.2%</text>
 <circle cx="215.0" cy="88" r="5" fill="#00ADD8"/>
 <text x="226.0" y="92" font-size="12" fill="#8b949e">Go 3.2%</text>
 <circle cx="5.0" cy="110" r="5" fill="#663399"/>
